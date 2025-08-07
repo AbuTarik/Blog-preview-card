@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f4d04e;
+  font-family: "Figtree", sans-serif;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+  padding: 1rem;
+}
+
+.content {
+  border: 1px solid black;
+  max-width: 24rem;
+  background-color: rgb(255, 255, 255);
+  border-radius: 1.15rem;
+  padding: 1.4rem;
+  box-shadow: 0.5rem 0.5rem black;
+  transition: 0.3s;
+}
+
+#learn {
+  display: inline-block;
+  background-color: #f4d04e;
+  padding: 0.3rem 0.8rem;
+  border-radius: 0.3rem;
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+#date {
+  display: block;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+
+#description {
+  margin-top: 1rem;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+#image-main {
+  display: block;
+  max-width: 100%;
+  border-radius: 0.75rem;
+}
+
+.author-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem; 
+  margin-top: 1rem;
+}
+
+.author-row p {
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.avatar {
+  width: 2rem;
+  height: 2rem;
+}
+
+.attribution {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.title {
+  margin-top: 1rem;
+  cursor: pointer;
+  transition: 0.2s;
+  font-size: 1.50rem;
+}
+
+.title:hover {
+  color: #f4d04e; /
+}
+
+.content:hover {
+  box-shadow: 0.8rem 1rem black;
+}
