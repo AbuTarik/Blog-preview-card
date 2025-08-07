@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/AbuTarik/Blog-preview-card)
+- Live Site URL: (https://abutarik.github.io/Blog-preview-card/)
 
 ## My process
 
@@ -69,4 +69,3 @@ In future projects, I aim to deepen my skills in HTML, CSS, and JavaScript, espe
 - Website - [AbuTarik](https://abutarik.github.io/link-in-bio/)
 - Frontend Mentor - [@AbuTarik](https://www.frontendmentor.io/profile/AbuTarik)
 - X - [@AbuTareq_xd](https://x.com/AbuTareq_xd)
-ge
